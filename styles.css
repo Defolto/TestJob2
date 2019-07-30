@@ -1,0 +1,31 @@
+.bag {
+  overflow-x: hidden;
+}
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+.line {
+  border-bottom: 1px solid gray !important;
+}
+.navbar-expand-xl > span > img {
+  margin-right: 20px;
+}
+.navbar-expand-xl > span > img + img {
+  margin-right: 30px;
+}
+.block1 {
+  background-color: #171717;
+  border-radius: 15px;
+}
+nav {
+  border-bottom: 1px solid gray;
+}
+.text {
+  font-size: 18px;
+  font-weight: 600;
+}
+.sumsung {
+  background-color: #EFEFEF !important;
+}
